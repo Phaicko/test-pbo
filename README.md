@@ -1,6 +1,6 @@
 # test-pbo
--Linked list
--Array list
--Queue
--Stack
--Hashmap
+# -Linked list
+# -Array list
+# -Queue
+# -Stack
+# -Hashmap
